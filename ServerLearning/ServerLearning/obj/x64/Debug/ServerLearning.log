@@ -4,6 +4,9 @@
   正在验证体系结构
   正在启动远程生成
   正在编译源:
-  main.cpp
+  testlisten.cpp
+D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\testlisten.cpp(39,39): warning : conversion from ‘int’ to ‘uint16_t’ {aka ‘short unsigned int’} may change value [-Wconversion]
+D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\testlisten.cpp(39,39): warning :    39 |         servAddr.sin_port = htons(atoi(argv[1]));
+D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\testlisten.cpp(39,39): warning :       |                                   ~~~~^~~~~~~~~
   正在链接对象
   ServerLearning.vcxproj -> D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\bin\x64\Debug\ServerLearning.out
