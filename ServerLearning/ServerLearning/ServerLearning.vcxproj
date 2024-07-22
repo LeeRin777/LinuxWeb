@@ -76,7 +76,9 @@
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="set_send_buffer.cpp" />
     <ClCompile Include="testlisten.cpp" />
+    <ClCompile Include="reuseaddr.cpp" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>

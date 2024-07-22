@@ -8,5 +8,9 @@
 D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\testlisten.cpp(39,39): warning : conversion from ‘int’ to ‘uint16_t’ {aka ‘short unsigned int’} may change value [-Wconversion]
 D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\testlisten.cpp(39,39): warning :    39 |         servAddr.sin_port = htons(atoi(argv[1]));
 D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\testlisten.cpp(39,39): warning :       |                                   ~~~~^~~~~~~~~
+  reuseaddr.cpp
+D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\reuseaddr.cpp(27,35): warning : conversion from ‘int’ to ‘uint16_t’ {aka ‘short unsigned int’} may change value [-Wconversion]
+D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\reuseaddr.cpp(27,35): warning :    27 |         addr.sin_port = htons(atoi(argv[1]));
+D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\reuseaddr.cpp(27,35): warning :       |                               ~~~~^~~~~~~~~
   正在链接对象
   ServerLearning.vcxproj -> D:\CodeSpace\LinuxWeb\ServerLearning\ServerLearning\bin\x64\Debug\ServerLearning.out

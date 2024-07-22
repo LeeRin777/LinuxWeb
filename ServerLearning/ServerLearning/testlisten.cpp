@@ -14,7 +14,7 @@ static void handle_term(int sig)
 	stop = true;
 }
 
-int main(int argc, char* argv[]) {
+int testlisten(int argc, char* argv[]) {
 
 	signal(SIGINT, handle_term);
 

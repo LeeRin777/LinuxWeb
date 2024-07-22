@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96567552-1F56-4C7E-8E36-BD7DF906D481}|ServerLearning\\ServerLearning.vcxproj|D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\reuseaddr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96567552-1F56-4C7E-8E36-BD7DF906D481}|ServerLearning\\ServerLearning.vcxproj|solutionrelative:ServerLearning\\reuseaddr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96567552-1F56-4C7E-8E36-BD7DF906D481}|ServerLearning\\ServerLearning.vcxproj|D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\testlisten.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{96567552-1F56-4C7E-8E36-BD7DF906D481}|ServerLearning\\ServerLearning.vcxproj|solutionrelative:ServerLearning\\testlisten.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96567552-1F56-4C7E-8E36-BD7DF906D481}|ServerLearning\\ServerLearning.vcxproj|D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{96567552-1F56-4C7E-8E36-BD7DF906D481}|ServerLearning\\ServerLearning.vcxproj|solutionrelative:ServerLearning\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96567552-1F56-4C7E-8E36-BD7DF906D481}|ServerLearning\\ServerLearning.vcxproj|D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\set_send_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96567552-1F56-4C7E-8E36-BD7DF906D481}|ServerLearning\\ServerLearning.vcxproj|solutionrelative:ServerLearning\\set_send_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "testlisten.cpp",
-              "DocumentMoniker": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\testlisten.cpp",
-              "RelativeDocumentMoniker": "ServerLearning\\testlisten.cpp",
-              "ToolTip": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\testlisten.cpp",
-              "RelativeToolTip": "ServerLearning\\testlisten.cpp",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "set_send_buffer.cpp",
+              "DocumentMoniker": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\set_send_buffer.cpp",
+              "RelativeDocumentMoniker": "ServerLearning\\set_send_buffer.cpp",
+              "ToolTip": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\set_send_buffer.cpp",
+              "RelativeToolTip": "ServerLearning\\set_send_buffer.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-21T13:31:24.103Z",
+              "WhenOpened": "2024-07-22T14:53:02.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\main.cpp",
               "RelativeDocumentMoniker": "ServerLearning\\main.cpp",
               "ToolTip": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\main.cpp",
               "RelativeToolTip": "ServerLearning\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-21T12:01:01.241Z"
+              "WhenOpened": "2024-07-22T14:47:35.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testlisten.cpp",
+              "DocumentMoniker": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\testlisten.cpp",
+              "RelativeDocumentMoniker": "ServerLearning\\testlisten.cpp",
+              "ToolTip": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\testlisten.cpp",
+              "RelativeToolTip": "ServerLearning\\testlisten.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T14:15:49.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reuseaddr.cpp",
+              "DocumentMoniker": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\reuseaddr.cpp",
+              "RelativeDocumentMoniker": "ServerLearning\\reuseaddr.cpp",
+              "ToolTip": "D:\\CodeSpace\\LinuxWeb\\ServerLearning\\ServerLearning\\reuseaddr.cpp",
+              "RelativeToolTip": "ServerLearning\\reuseaddr.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T12:15:29.411Z",
+              "EditorCaption": ""
             }
           ]
         }
